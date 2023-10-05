@@ -1,0 +1,46 @@
+name: flutter_app_leitor_codigo
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.1
+  cupertino_icons: ^1.0.2
+  simple_barcode_scanner: ^0.0.8
+  path: ^1.8.3
+  sqflite: ^2.3.0 
+  image_picker: ^1.0.4
+  brasil_fields: ^1.14.0  
+  flutter_native_splash: ^2.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+   - img/contato.png
+   - img/canhoto.png
+   - img/barcodeimg.png
+   - img/barcodephot.png
+   - img/barcodephot2.png
+   - img/logo_ger.png
+  #   - images/a_dot_ham.jpeg
+
+  
