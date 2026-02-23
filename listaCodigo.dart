@@ -17,7 +17,7 @@ class _ResultPageState extends State<ResultPage> {
   //Adição da Lista
   List<LeituraNf> leitor = [];
 
-//Iniciando a lista pegando todas da lista
+//Iniciando   a lista pegando todas da lista
   @override
   void initState() {
     super.initState();
