@@ -145,3 +145,4 @@ class LeituraNf {
     return "LeituraNf(id: $id, codigo: $codigo, nfe_serie: $nfeColumn, img: $img )";
   }
 }//Fim da Classe LeituraNf
+return
