@@ -40,6 +40,5 @@ class MyApp extends StatelessWidget {
       home: const ResultPage(),
     );
   }
-}
-
+const
 
