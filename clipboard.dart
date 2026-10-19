@@ -19,3 +19,4 @@ class Clipbord {
   static getDate(String kTextPlain) {}
 }
 //ORIGEM
+{test}
