@@ -38,6 +38,7 @@ class MyApp extends StatelessWidget {
       ),
       themeMode: ThemeMode.light,
       home: const ResultPage(),
+      hgf
     );
   }
 const
