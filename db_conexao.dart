@@ -146,3 +146,4 @@ class LeituraNf {
   }
 }//Fim da Classe LeituraNf
 return
+  jj
