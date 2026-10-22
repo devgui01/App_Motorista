@@ -108,6 +108,7 @@ class ConexaoDb {
   Future close() async {
     Database? dbConect = await db;
     dbConect!.close();
+    teste
   }
 }
 
