@@ -133,6 +133,9 @@ class LeituraNf {
     Map<String, dynamic> map = {
       codColumn: codigo,
       nfeColumn: nfe,
+      asdasnfasf,
+      asfmasfa
+        ,
       imgColumn: img,
     };
     if (id != null) {
