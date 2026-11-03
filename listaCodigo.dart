@@ -204,6 +204,7 @@ class _ResultPageState extends State<ResultPage> {
       _getAllLeituraNf();
     }
   }
+  ############
 
 //funçao que carrega todos a Lista
   void _getAllLeituraNf() {
