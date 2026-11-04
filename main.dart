@@ -25,6 +25,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: Colors.white,
         floatingActionButtonTheme: const FloatingActionButtonThemeData(
           backgroundColor: Color.fromRGBO(74, 130, 198, 1),
+          backgroundColor: Color.fromRGBO(74, 130, 198, 1)
         ),
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
