@@ -143,6 +143,7 @@ class LeituraNf {
     }
     return map;
   }
+}
 
   @override
   String toString() {
